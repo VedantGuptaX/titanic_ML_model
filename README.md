@@ -1,4 +1,4 @@
-itanic Survival Prediction App (FastAPI + Gradio)
+Titanic Survival Prediction App (FastAPI + Gradio)
 
 This project is a full-stack ML web application that predicts whether a Titanic passenger would survive based on their input features (class, sex, and age).  
 It includes a **FastAPI backend** for model inference and logging, and a **Gradio frontend** for user interaction.
@@ -34,6 +34,7 @@ titanic_ml_app/
 - 🖼️ **Survival Plot** auto-generated from logs using Seaborn/Matplotlib
 - 🧪 **Interactive UI** built with Gradio
 - 🐳 **Dockerized**, ready for production or local testing
+- K8s can also be used for container orchestration and Jenkins pipeline can be used for CI or GHActions whichever and ArgoCD for CD.
 
 ---
 
